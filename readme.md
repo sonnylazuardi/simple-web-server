@@ -46,5 +46,5 @@ If you wanna test the concurrency, you may use apache bench. This is the step to
 
 - test with concurrency and number of users
 
-        ab -n1000 -c100 http://localhost:3900/
+        ab -n1000 -c100 http://localhost:3900/test.html
 
